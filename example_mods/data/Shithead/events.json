@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "room",
+		"player1": "no-bf",
+		"player2": "Borj",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"handlerTextBox",
+						"vk",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-pixel",
+		"bpm": 180,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "vk"
+	}
+}

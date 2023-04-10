@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"Shithead",
+			"vladborj",
+			[
+				255,
+				120,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "borj",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "i'll kill you all with my homies!",
+	"weekName": "vlad borsh",
+	"freeplayColor": [
+		255,
+		155,
+		0
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

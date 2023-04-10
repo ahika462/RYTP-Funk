@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"stump",
+			"pocyk",
+			[
+				86,
+				80,
+				115
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "pocik",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "you sat on a stump, you had to give the kosar`",
+	"weekName": "dangerous potsyk",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

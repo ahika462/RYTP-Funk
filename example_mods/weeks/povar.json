@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"profession",
+			"povar",
+			[
+				60,
+				93,
+				153
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "povar",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "cook asks cook...",
+	"weekName": "povar",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
